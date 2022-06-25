@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "jupyterlab/jupyterlab",
+    "stargazers_count": 12124,
+    "open_issues_count": 2122,
+    "forks_count": 2368
+  },
+  {
     "full_name": "linkedin/feathr",
-    "stargazers_count": 733,
-    "open_issues_count": 90,
+    "stargazers_count": 734,
+    "open_issues_count": 91,
     "forks_count": 67
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5307,
+    "stargazers_count": 5313,
     "open_issues_count": 22,
-    "forks_count": 479
+    "forks_count": 481
   },
   {
     "full_name": "trinodb/trino",
-    "stargazers_count": 5610,
-    "open_issues_count": 2216,
+    "stargazers_count": 5615,
+    "open_issues_count": 2215,
     "forks_count": 1816
   },
   {

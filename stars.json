@@ -7,21 +7,21 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 710,
+    "stargazers_count": 712,
     "open_issues_count": 16,
-    "forks_count": 298
+    "forks_count": 302
   },
   {
     "full_name": "alyssaxuu/figma-to-google-slides",
-    "stargazers_count": 467,
+    "stargazers_count": 468,
     "open_issues_count": 2,
     "forks_count": 31
   },
   {
     "full_name": "alyssaxuu/mapus",
-    "stargazers_count": 2739,
+    "stargazers_count": 2741,
     "open_issues_count": 2,
-    "forks_count": 146
+    "forks_count": 148
   },
   {
     "full_name": "alyssaxuu/jumpskip",
@@ -31,33 +31,33 @@
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 17323,
-    "open_issues_count": 1103,
-    "forks_count": 4125
+    "stargazers_count": 17339,
+    "open_issues_count": 1105,
+    "forks_count": 4135
   },
   {
     "full_name": "ipfs/go-ipfs",
-    "stargazers_count": 13821,
-    "open_issues_count": 1159,
-    "forks_count": 2706
+    "stargazers_count": 13846,
+    "open_issues_count": 1163,
+    "forks_count": 2715
   },
   {
     "full_name": "faahim/happy-birthday",
-    "stargazers_count": 443,
+    "stargazers_count": 444,
     "open_issues_count": 32,
-    "forks_count": 853
+    "forks_count": 854
   },
   {
     "full_name": "skydoves/WhatIf",
-    "stargazers_count": 612,
+    "stargazers_count": 613,
     "open_issues_count": 0,
     "forks_count": 28
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5406,
-    "open_issues_count": 32,
-    "forks_count": 504
+    "stargazers_count": 5436,
+    "open_issues_count": 33,
+    "forks_count": 510
   },
   {
     "full_name": "niharika2810/android-interview-questions",
@@ -67,37 +67,37 @@
   },
   {
     "full_name": "python-poetry/poetry",
-    "stargazers_count": 20363,
-    "open_issues_count": 1024,
-    "forks_count": 1657
+    "stargazers_count": 20393,
+    "open_issues_count": 1023,
+    "forks_count": 1661
   },
   {
     "full_name": "kiwix/kiwix-android",
-    "stargazers_count": 524,
-    "open_issues_count": 166,
+    "stargazers_count": 525,
+    "open_issues_count": 169,
     "forks_count": 390
   },
   {
     "full_name": "apache/airflow",
-    "stargazers_count": 26535,
-    "open_issues_count": 880,
-    "forks_count": 10822
+    "stargazers_count": 26562,
+    "open_issues_count": 857,
+    "forks_count": 10827
   },
   {
     "full_name": "ploomber/ploomber",
-    "stargazers_count": 2524,
-    "open_issues_count": 204,
+    "stargazers_count": 2533,
+    "open_issues_count": 207,
     "forks_count": 167
   },
   {
     "full_name": "BetterDiscord/Installer",
-    "stargazers_count": 1362,
+    "stargazers_count": 1364,
     "open_issues_count": 36,
     "forks_count": 127
   },
   {
     "full_name": "futurice/android-best-practices",
-    "stargazers_count": 20079,
+    "stargazers_count": 20081,
     "open_issues_count": 31,
     "forks_count": 3434
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "Anmol92verma/ComposeAnimationsPlayground",
-    "stargazers_count": 127,
+    "stargazers_count": 128,
     "open_issues_count": 2,
     "forks_count": 6
   },
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "CuriousNikhil/k5-compose",
-    "stargazers_count": 157,
+    "stargazers_count": 156,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "raamcosta/compose-destinations",
-    "stargazers_count": 1262,
+    "stargazers_count": 1269,
     "open_issues_count": 15,
     "forks_count": 53
   },
   {
     "full_name": "android/compose-samples",
-    "stargazers_count": 12283,
-    "open_issues_count": 27,
-    "forks_count": 2814
+    "stargazers_count": 12303,
+    "open_issues_count": 26,
+    "forks_count": 2815
   },
   {
     "full_name": "mxalbert1996/Zoomable",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "vanpra/compose-material-dialogs",
-    "stargazers_count": 346,
+    "stargazers_count": 345,
     "open_issues_count": 13,
-    "forks_count": 62
+    "forks_count": 61
   },
   {
     "full_name": "V9vek/ScratchCardEffect",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "androiddevnotes/awesome-jetpack-compose-android-apps",
-    "stargazers_count": 659,
+    "stargazers_count": 660,
     "open_issues_count": 3,
     "forks_count": 64
   },

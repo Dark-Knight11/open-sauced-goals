@@ -1,32 +1,32 @@
 [
   {
     "full_name": "jupyterlab/jupyterlab",
-    "stargazers_count": 12154,
-    "open_issues_count": 2134,
-    "forks_count": 2383
+    "stargazers_count": 12165,
+    "open_issues_count": 2126,
+    "forks_count": 2384
   },
   {
     "full_name": "linkedin/feathr",
-    "stargazers_count": 775,
-    "open_issues_count": 92,
-    "forks_count": 69
+    "stargazers_count": 795,
+    "open_issues_count": 94,
+    "forks_count": 70
   },
   {
     "full_name": "android/nowinandroid",
-    "stargazers_count": 5452,
+    "stargazers_count": 5489,
     "open_issues_count": 32,
-    "forks_count": 510
+    "forks_count": 512
   },
   {
     "full_name": "trinodb/trino",
-    "stargazers_count": 5667,
-    "open_issues_count": 2233,
-    "forks_count": 1839
+    "stargazers_count": 5677,
+    "open_issues_count": 2238,
+    "forks_count": 1843
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 712,
-    "open_issues_count": 17,
-    "forks_count": 309
+    "stargazers_count": 715,
+    "open_issues_count": 16,
+    "forks_count": 314
   }
 ]
